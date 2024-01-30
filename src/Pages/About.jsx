@@ -3,7 +3,7 @@ const About = () => {
     <div>
       <header>
         <div className="relative  ">
-          <img src="assets/ab.jpg" alt="" />
+          <img width={"100%"} src="assets/ab.jpg" alt="" />
 
           <h1 className="absolute md:top-48 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-orange-300 md:text-8xl text-5xl top-20 font-bold">
             About us

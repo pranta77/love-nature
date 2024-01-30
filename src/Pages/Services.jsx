@@ -3,7 +3,7 @@ const Services = () => {
     <div>
       <header>
         <div className="relative  ">
-          <img src="assets/service.jpg" alt="" />
+          <img width={"100%"} src="assets/service.jpg" alt="" />
 
           <h1 className="absolute md:top-48 top-20 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white md:text-8xl text-3xl font-semibold">
             Our Services

@@ -3,7 +3,7 @@ const Contact = () => {
     <div>
       <header>
         <div className="relative  ">
-          <img src="assets/contact.jpg" alt="" />
+          <img width={"100%"} src="assets/contact.jpg" alt="" />
 
           <h1 className="absolute md:top-48 top-14 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white md:text-8xl text-4xl font-semibold">
             contact us

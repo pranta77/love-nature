@@ -66,7 +66,7 @@ const Home = () => {
         <h2 className="flex justify-center ">pranta-dev</h2>
       </section>
       <section>
-        <div className="bg-sky-100 grid md:grid-cols-2 max-w-7xl ">
+        <div className="bg-sky-100 grid md:grid-cols-2  ">
           <div className="md:mx-16 md:py-36 p-8">
             <p className="mb-6">
               <small>About Us</small>
@@ -86,7 +86,7 @@ const Home = () => {
             </button>
           </div>
           <div className="m-8 md:m-20">
-            <img width={"400px"} src="assets/about.jpg" alt="" />
+            <img width={"100%"} src="assets/about.jpg" alt="" />
           </div>
         </div>
       </section>
